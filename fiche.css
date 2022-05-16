@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+}
+.violet{
+    background-color: #9E95C6;
+}
+.d1{
+    width: 100%;
+}
+.d2{
+    margin-left: 13%;
+    width: 75%;
+}
+.bleu{
+    background-color: #84B8D7;
+}
+.vert{
+    background-color: #A2DAC9;
+}
+.verte{
+    background-color: #CDEBC8;
+}
+.orange1{
+    background-color: #FECEA0;
+}
+.orange2{
+    background-color: #F7A78E;
+}
+.orange{
+    background-color: #FFECB9;
+}
+.jaune{
+    background-color: #F0F9C1;
+}
+.rose1{
+    background-color: #E68A95;
+}
+.rose{
+    background-color: #C5678E;
+}
+td{
+    font-size:0.9vw ;
+    text-align: center;
+}
+.photo{
+width: 10%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+}
